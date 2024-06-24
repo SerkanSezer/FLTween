@@ -37,6 +37,16 @@
 <ul><code>OnUpdate(Action callBack)</code></ul>
 <ul><code>OnComplete(Action callBack)</code></ul>
 
+<h2>Sequence</h2>
+<ul><code>Append()</code></ul>
+<ul><code>AppendInterval(float interval)</code></ul>
+<ul><code>AppendCallback(Action callBack)</code></ul>
+<ul><code>Prepend()</code></ul>
+<ul><code>PrependInterval(float interval)</code></ul>
+<ul><code>PrependCallback(Action callBack)</code></ul>
+<ul><code>Join()</code></ul>
+<ul><code>SetLoops(int loopCount, LoopType loopType)</code></ul>
+
 <h2>Shortcuts</h2>
 <h5>Transform Move Tweens</h5>
 <h6>
