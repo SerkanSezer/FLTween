@@ -48,67 +48,67 @@
 <ul><code>SetLoops(int loopCount, LoopType loopType)</code></ul>
 
 <h2>Shortcuts</h2>
-<h5>Transform Move Tweens</h5>
+<h3>Transform Move Tweens</h3>
 <h6>
 FLMove, FLMoveX, FLMoveY, FLMoveZ, FLLocalMove, FLLocalMoveX, FLLocalMoveY, FLLocalMoveZ
 </h6>
-<h5>Transform Rotate Tweens</h5>
+<h3>Transform Rotate Tweens</h3>
 <h6>
 FLRotate, FLRotateX, FLRotateY, FLRotateZ, FLLocalRotate, FLLocalRotateX, FLLocalRotateY, FLLocalRotateZ, FLRotateQuaternion, FLLocalRotateQuaternion, FLLookAt
 </h6>
-<h5>Transform Scale Tweens</h5>
+<h3>Transform Scale Tweens</h3>
 <h6>
 FLScale, FLScaleX, FLScaleY, FLScaleZ
 </h6>
-<h5>Rigidbody Tweens</h5>
+<h3>Rigidbody Tweens</h3>
 <h6>
 FLMove, FLMoveX, FLMoveY, FLMoveZ, FLRotate, FLRotateX, FLRotateY, FLRotateZ, FLLookat
 </h6>
-<h5>Rigidbody2D Tweens</h5>
+<h3>Rigidbody2D Tweens</h3>
 <h6>
 FLMove, FLMoveX, FLMoveY, FLRotate
 </h6>
-<h5>Material Tweens</h5>
+<h3>Material Tweens</h3>
 <h6>
 FLFade, FLColor, FLOffset, FLTiling
 </h6>
-<h5>Audio Source Tweens</h5>
+<h3>Audio Source Tweens</h3>
 <h6>
 FLFade, FLPitch
 </h6>
-<h5>Camera Tweens</h5>
+<h3>Camera Tweens</h3>
 <h6>
 FLColor, FLFieldOfView, FLOrthoSize
 </h6>
-<h5>Light Tweens</h5>
+<h3>Light Tweens</h3>
 <h6>
 FLColor, FLIntensity
 </h6>
-<h5>Sprite Renderer Tweens</h5>
+<h3>Sprite Renderer Tweens</h3>
 <h6>
 FLFade, FLColor
 </h6>
-<h5>UI - Image Tweens</h5>
+<h3>UI - Image Tweens</h3>
 <h6>
 FLFade, FLColor, FLFillAmount
 </h6>
-<h5>UI - Outline Tweens</h5>
+<h3>UI - Outline Tweens</h3>
 <h6>
 FLFade, FLColor, FLDistance
 </h6>
-<h5>UI - RectTransform Tweens</h5>
+<h3>UI - RectTransform Tweens</h3>
 <h6>
 FLAnchorMax, FLAnchorMin, FLAnchorPos, FLAnchorPosX, FLAnchorPosY, FLPivot
 </h6>
-<h5>UI - Slider Tweens</h5>
+<h3>UI - Slider Tweens</h3>
 <h6>
 FLValue
 </h6>
-<h5>UI - TextMeshPro && TextMeshProUGUI Tweens</h5>
+<h3>UI - TextMeshPro && TextMeshProUGUI Tweens</h3>
 <h6>
 FLColor, FLFaceColor, FLOutlineColor, FLFade, FLFaceFade, FLFontSize, FLScale 
 </h6>
-<h5>Time Tweens</h5>
+<h3>Time Tweens</h3>
 <h6>
 FLTimeScale
 </h6>
